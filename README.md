@@ -36,8 +36,6 @@ I enjoy turning ideas into elegant digital solutions and continuously learning n
 
 ---
 
----
-
 ## 📫 Connect with Me  
 - **Email:** andybima6@gmail.com  
 - **LinkedIn:** [linkedin.com/in/andy-nugraha-putra](#)  
