@@ -11,7 +11,8 @@ I enjoy turning ideas into elegant digital solutions and continuously learning n
 - **React.js**  
 - **Vue.js (Vue 3, Quasar Framework)**  
 - **Next.js**  
-- **React Native**  
+- **React Native**
+- **Dart**
 - **Tailwind CSS / ShadCN UI**  
 
 ### ⚙️ Backend  
