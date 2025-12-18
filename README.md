@@ -36,9 +36,8 @@ I enjoy turning ideas into elegant digital solutions and continuously learning n
 - **i18N (Internationalization)**   
 
 ---
-
-## 📫 Connect with Me  
-- **Email:** andybima6@gmail.com  
-- **LinkedIn:** [linkedin.com/in/andy-nugraha-putra](#)  
-- **GitHub:** [github.com/andybima6](#)
-- **Portofolio** [https://portofolio-andybima6s-projects.vercel.app/](#)
+## 📫 Connect with Me
+- **Email:** [andybima6@gmail.com](mailto:andybima6@gmail.com)
+- **LinkedIn:** [linkedin.com/in/andy-nugraha-putra](https://linkedin.com/in/andy-nugraha-putra)
+- **GitHub:** [github.com/andybima6](https://github.com/andybima6)
+- **Portfolio:** [portofolio-andybima6s-projects.vercel.app](https://portofolio-andybima6s-projects.vercel.app/)
