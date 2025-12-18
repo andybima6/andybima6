@@ -13,7 +13,8 @@ I enjoy turning ideas into elegant digital solutions and continuously learning n
 - **Next.js**  
 - **React Native**
 - **Dart**
-- **Tailwind CSS / ShadCN UI**  
+- **Tailwind CSS / ShadCN UI**
+- **PHP**
 
 ### ⚙️ Backend  
 - **Node.js**  
